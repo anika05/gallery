@@ -1,0 +1,17 @@
+@media screen and(max-width=break)
+{ property: value;}
+
+ img {
+  width: 175px;
+  height: 200px;
+
+}
+
+img {
+  border: 10px solid black;
+}
+ .div {
+  height: 100px;
+  width: 500px;
+  background-color: powderblue;
+}
