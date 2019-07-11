@@ -2,16 +2,29 @@
 { property: value;}
 
  img {
-  width: 175px;
+  width: 200px;
   height: 200px;
+  object-fit: cover;
 
 }
 
+
+
+
+
+
+body {
+  background-color: white;
+}
+
+.center {
+  text-align: center;
+}
 img {
-  border: 10px solid black;
+  border-radius: 50%;
 }
- .div {
-  height: 100px;
-  width: 500px;
-  background-color: powderblue;
+
+body {
+  color: black;
 }
+body {background-color: #E4FDFA;}
